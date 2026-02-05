@@ -1,27 +1,27 @@
-## Hi there 👋
+## Hi  👋
 
 ### ingeniero Industrial.
 
-🔬: Especializacion en ciancia de datos.
+🔬: Especializado en ciencia de datos.
 
-🎯 Apasionado por aprender y compartir sobre programación y análisis de datos.
+🎯 Apasionado por aprender y compartir sobre programación .
 
-🌱 Actualmente aprendiendo Machine Learning, Análisis de Datos, programacion.
+🌱 Actualmente aprendiendo Machine Learning, Data science , Desarrollo de APIs.
 
-📈 Objetivo: Convertirme en un Data Scientist profesional y mejorar mis habilidades. 
+📈 Objetivo: Convertirme en un Sofware Development profesional y mejorar mis habilidades. 
 
 ### Habilidades. 
-Lenguajes de Programación: Python, SQL.
+Lenguajes de Programación: Python, SQL , JavaScript
 
 Herramientas de Ciencia de Datos: Pandas, NumPy, Matplotlib, Seaborn.
 
-Bases de Datos: MySQL, PostgreSQL.
+Herramientas de desarrollo : Docker, kubernetes, FastAPi, Langchain, Chatbots, ETL, Kestra
 
-Otras Herramientas: Git, Jupyter Notebooks.
+Bases de Datos: MySQL, PostgreSQL, Qdrant, 
+
+Otras Herramientas: Github, GitLab , Jupyter Notebooks.
 
 ### Proyectos en progreso
-🔄 Análisis de datos de ventas con Python.
-
-🤖 Creación de un modelo de predicción de precios con Machine Learning.
-
-📊 Análisis exploratorio de datos en Kaggle.
+🔄 Desarrollo de aplicacion para Calidad de datos.
+🤖 Creación de un modelo de predicción de fallas con Machine Learning.
+📊 Análisis de datos para la industria.
