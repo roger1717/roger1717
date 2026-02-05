@@ -1,6 +1,6 @@
 ## Hi  👋
 
-### ingeniero Industrial.
+### ingeniero Industrial and DevOps Developer.
 
 🔬: Especializado en ciencia de datos.
 
